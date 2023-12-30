@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?&type=venom&color=auto&height=300&section=header&text=Welcome%20My%20Place!&fontSize=70&fontColor=666A73)
+![header](https://capsule-render.vercel.app/api?&type=venom&color=auto&height=300&section=header&text=Welcome%20To%20My%20Place!&fontSize=65&fontColor=666A73)
 
 # 😃 Welcome! 😃
 
-### 🧰 Available Skill
-#### Main
-<img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+## 🧰 Available Skill
+### `Main`
+<img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/unity-000000?style=plastic&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white"/>
+
+### `ETC`
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white"/>
