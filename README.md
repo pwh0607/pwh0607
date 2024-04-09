@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?&type=venom&color=auto&height=300&section=header&text=Welcome%20To%20My%20Place!&fontSize=65&fontColor=666A73)
 
 # 😃 Welcome! 😃
+## 📘notion
+`https://www.notion.so/3c1f48a4e2c94004a8e9766ab03ce93d`
+
 ## 🛠️ Available Skill
 ### `Main`
 <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white"/>
