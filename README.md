@@ -2,7 +2,7 @@
 
 # 😃 Welcome! 😃
 ## 📘notion
-`https://www.notion.so/3c1f48a4e2c94004a8e9766ab03ce93d`
+`https://thunder-flavor-fd3.notion.site/3c1f48a4e2c94004a8e9766ab03ce93d`
 
 ## 🛠️ Available Skill
 ### `Main`
